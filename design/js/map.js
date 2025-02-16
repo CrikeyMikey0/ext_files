@@ -6,7 +6,7 @@ $.log = function(message) {
 $(function() {
     var options = {
         map: "#map",
-        location: "Cape Town",
+        location: "Bhavnagar",
     };
 
     $("#geocomplete")
@@ -27,7 +27,7 @@ $(function() {
 
     var options = {
         map: "#mapTwo",
-        location: "Melbourne",
+        location: "Bhavnagar",
     };
     $("#geosearch")
         .geocomplete(options)

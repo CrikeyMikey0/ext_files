@@ -13,7 +13,7 @@
         <hr class="half_space">
         <ul class="widget_links">
           <li><a href="index.php">Home</a></li>
-          <li><a href="./quick/blog.php">Blog</a></li>
+          <li><a href="http://localhost:8080/projects/FOWA/quick/blog.php">Blog</a></li>
           <li><a href="about.html">About Us</a></li>
           <li><a href="location.html">Locations</a></li>
           <li><a href="menu.html">Menu</a></li>
@@ -64,15 +64,15 @@
 
 <a href="#." id="back-top"><i class="fa fa-angle-up fa-2x"></i></a>
 
-<script src="./design/js/jquery-2.2.3.js" type="text/javascript"></script>
-<script src="./design/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="./design/js/jquery.parallax-1.1.3.js"></script>
-<script src="./design/js/jquery.appear.js"></script>  
-<script src="./design/js/jquery-countTo.js"></script>
-<script src="./design/js/owl.carousel.min.js" type="text/javascript"></script>
-<script src="./design/js/jquery.fancybox.js"></script>
-<script src="./design/js/jquery.mixitup.min.js"></script>
-<script src="./design/js/functions.js" type="text/javascript"></script>
+<script src="http://localhost:8080/projects/FOWA/design/js/jquery-2.2.3.js" type="text/javascript"></script>
+<script src="http://localhost:8080/projects/FOWA/design/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="http://localhost:8080/projects/FOWA/design/js/jquery.parallax-1.1.3.js"></script>
+<script src="http://localhost:8080/projects/FOWA/design/js/jquery.appear.js"></script>  
+<script src="http://localhost:8080/projects/FOWA/design/js/jquery-countTo.js"></script>
+<script src="http://localhost:8080/projects/FOWA/design/js/owl.carousel.min.js" type="text/javascript"></script>
+<script src="http://localhost:8080/projects/FOWA/design/js/jquery.fancybox.js"></script>
+<script src="http://localhost:8080/projects/FOWA/design/js/jquery.mixitup.min.js"></script>
+<script src="http://localhost:8080/projects/FOWA/design/js/functions.js" type="text/javascript"></script>
 
 </body>
 </html>
