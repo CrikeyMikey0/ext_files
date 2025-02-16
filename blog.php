@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-    <?php require '../structure/head.php'; ?>
+    <?php require './structure/head.php'; ?>
 </head>
 
 <body>
-    <?php require '../structure/topbody.php'; ?>
+    <?php require './structure/topbody.php'; ?>
 
     <!--Page header & Title-->
     <section id="page_header">
@@ -171,23 +171,23 @@
 
     <!--Footer-->
     <footer>
-        <?php require '../structure/footer.php'; ?>
+        <?php require './structure/footer.php'; ?>
     </footer>
 
     <a href="#." id="back-top"><i class="fa fa-angle-up fa-2x"></i></a>
-    <script src="../design/js/jquery-2.2.3.js" type="text/javascript"></script>
-    <script src="../design/js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="../design/js/jquery.geocomplete.min.js"></script>
-    <script src="../design/js/jquery.parallax-1.1.3.js"></script>
-    <script src="../design/js/jquery.themepunch.tools.min.js"></script>
-    <script src="../design/js/jquery.themepunch.revolution.min.js"></script>
-    <script src="../design/js/slider.js" type="text/javascript"></script>
-    <script src="../design/js/jquery.appear.js"></script>
-    <script src="../design/js/jquery-countTo.js"></script>
-    <script src="../design/js/owl.carousel.min.js" type="text/javascript"></script>
-    <script src="../design/js/jquery.fancybox.js"></script>
-    <script src="../design/js/jquery.mixitup.min.js"></script>
-    <script src="../design/js/functions.js" type="text/javascript"></script>
+    <script src="./design/js/jquery-2.2.3.js" type="text/javascript"></script>
+    <script src="./design/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="./design/js/jquery.geocomplete.min.js"></script>
+    <script src="./design/js/jquery.parallax-1.1.3.js"></script>
+    <script src="./design/js/jquery.themepunch.tools.min.js"></script>
+    <script src="./design/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="./design/js/slider.js" type="text/javascript"></script>
+    <script src="./design/js/jquery.appear.js"></script>
+    <script src="./design/js/jquery-countTo.js"></script>
+    <script src="./design/js/owl.carousel.min.js" type="text/javascript"></script>
+    <script src="./design/js/jquery.fancybox.js"></script>
+    <script src="./design/js/jquery.mixitup.min.js"></script>
+    <script src="./design/js/functions.js" type="text/javascript"></script>
 </body>
 
 </html>
